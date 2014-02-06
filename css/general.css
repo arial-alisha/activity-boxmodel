@@ -25,3 +25,27 @@ img {
 	width: 100%;
     display: block;
 }
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.masthead {
+    background-color: #3CB371;
+    overflow: hidden;
+}
+
+.logo {
+    height: 10rem;
+    width: auto;
+    margin: .5rem 5%;
+}
+
+article {
+    margin: 0;
+    padding: 0 5%;
+    overflow: hidden;
+}
+
+
